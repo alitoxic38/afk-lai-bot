@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "player001", 
+    "username": "AliafkbotLoveYldiz",
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Yldiz.aternos.me", 
-    "port": 42859,   
-    "version": "1.12.1"   
+    "ip": "Yldiz.aternos.me",
+    "port": 42859,
+    "version": "1.12.1"
   },
 
   "position": {
@@ -33,7 +33,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
-
       "messages": [
         "I'm a regular player",
         "Subscibe To Tyrox!",
@@ -43,6 +42,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-reconnect-delay": 5000
   }
 }
